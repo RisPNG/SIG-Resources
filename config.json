@@ -4,8 +4,8 @@
         "name": "SIG Background",
         "id": "SIG",
         "filetype": "png",
-        "src": "/starfieldGravJump.png",
-        "thumb_src": "/starfieldGravJump.png"
+        "src": "/RisPNG/SIG-Resources/main/starfieldGravJump.png",
+        "thumb_src": "/RisPNG/SIG-Resources/main/starfieldGravJump.png"
       }
     ]
   }
