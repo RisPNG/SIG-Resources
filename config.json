@@ -1,0 +1,11 @@
+{
+    "videoBackgroundImages": [
+      {
+        "name": "SIG Background",
+        "id": "SIG",
+        "filetype": "png",
+        "src": "/RisPNG/SIG-Resources/main/starfieldGravJump.png",
+        "thumb_src": "/RisPNG/SIG-Resources/main/starfieldGravJump.png"
+      }
+    ]
+  }
