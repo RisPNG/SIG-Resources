@@ -1,0 +1,2 @@
+# SIG-Resources
+Assets
