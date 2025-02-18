@@ -27,6 +27,20 @@
         "filetype": "png",
         "src": "/evergreen-assets/backgroundimages/inTheZone4.png?v=0.1",
         "thumb_src": "/evergreen-assets/backgroundimages/inTheZone4_thumb.png?v=0.1"
+      },
+      {
+        "name": "de_dust2",
+        "id": "Microsoft_inTheZone7",
+        "filetype": "png",
+        "src": "/evergreen-assets/backgroundimages/inTheZone7.png?v=0.1",
+        "thumb_src": "/evergreen-assets/backgroundimages/inTheZone7_thumb.png?v=0.1"
+      },
+      {
+        "name": "cs_assault",
+        "id": "Microsoft_inTheZone8",
+        "filetype": "png",
+        "src": "/evergreen-assets/backgroundimages/inTheZone8.png?v=0.1",
+        "thumb_src": "/evergreen-assets/backgroundimages/inTheZone8_thumb.png?v=0.1"
       }
     ]
   }
