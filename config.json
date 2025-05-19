@@ -8,27 +8,6 @@
         "thumb_src": "/evergreen-assets/backgroundimages/inTheZone1_thumb.png?v=0.1"
       },
       {
-        "name": "South Island Garment 2025 - Light Blue",
-        "id": "Microsoft_inTheZone2",
-        "filetype": "png",
-        "src": "/evergreen-assets/backgroundimages/inTheZone2.png?v=0.1",
-        "thumb_src": "/evergreen-assets/backgroundimages/inTheZone2_thumb.png?v=0.1"
-      },
-      {
-        "name": "South Island Garment 2025 - Orange",
-        "id": "Microsoft_inTheZone3",
-        "filetype": "png",
-        "src": "/evergreen-assets/backgroundimages/inTheZone3.png?v=0.1",
-        "thumb_src": "/evergreen-assets/backgroundimages/inTheZone3_thumb.png?v=0.1"
-      },
-      {
-        "name": "South Island Garment 2025 - Purple",
-        "id": "Microsoft_inTheZone4",
-        "filetype": "png",
-        "src": "/evergreen-assets/backgroundimages/inTheZone4.png?v=0.1",
-        "thumb_src": "/evergreen-assets/backgroundimages/inTheZone4_thumb.png?v=0.1"
-      },
-      {
         "name": "de_dust2",
         "id": "Microsoft_inTheZone7",
         "filetype": "png",
