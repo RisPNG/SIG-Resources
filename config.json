@@ -1,0 +1,46 @@
+{
+    "videoBackgroundImages": [
+      {
+        "name": "South Island Garment - Original",
+        "id": "Microsoft_inTheZone1",
+        "filetype": "png",
+        "src": "/evergreen-assets/backgroundimages/inTheZone1.png?v=0.1",
+        "thumb_src": "/evergreen-assets/backgroundimages/inTheZone1_thumb.png?v=0.1"
+      },
+      {
+        "name": "de_dust2",
+        "id": "Microsoft_inTheZone7",
+        "filetype": "png",
+        "src": "/evergreen-assets/backgroundimages/inTheZone7.png?v=0.1",
+        "thumb_src": "/evergreen-assets/backgroundimages/inTheZone7_thumb.png?v=0.1"
+      },
+      {
+        "name": "cs_assault",
+        "id": "Microsoft_inTheZone8",
+        "filetype": "png",
+        "src": "/evergreen-assets/backgroundimages/inTheZone8.png?v=0.1",
+        "thumb_src": "/evergreen-assets/backgroundimages/inTheZone8_thumb.png?v=0.1"
+      },
+      {
+        "name": "South Island Garment 2025 - Light Blue SIG50 Edition",
+        "id": "Microsoft_inTheZone9",
+        "filetype": "png",
+        "src": "/evergreen-assets/backgroundimages/inTheZone9.png?v=0.1",
+        "thumb_src": "/evergreen-assets/backgroundimages/inTheZone9_thumb.png?v=0.1"
+      },
+      {
+        "name": "South Island Garment 2025 - Orange SIG50 Edition",
+        "id": "Microsoft_inTheZone10",
+        "filetype": "png",
+        "src": "/evergreen-assets/backgroundimages/inTheZone10.png?v=0.1",
+        "thumb_src": "/evergreen-assets/backgroundimages/inTheZone10_thumb.png?v=0.1"
+      },
+      {
+        "name": "South Island Garment 2025 - Purple SIG50 Edition",
+        "id": "Microsoft_inTheZone11",
+        "filetype": "png",
+        "src": "/evergreen-assets/backgroundimages/inTheZone11.png?v=0.1",
+        "thumb_src": "/evergreen-assets/backgroundimages/inTheZone11_thumb.png?v=0.1"
+      }
+    ]
+  }
