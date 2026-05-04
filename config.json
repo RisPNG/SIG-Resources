@@ -41,6 +41,27 @@
         "filetype": "png",
         "src": "/evergreen-assets/backgroundimages/inTheZone11.png?v=0.1",
         "thumb_src": "/evergreen-assets/backgroundimages/inTheZone11_thumb.png?v=0.1"
+      },
+      {
+        "name": "South Island Garment 2026 - Purple",
+        "id": "Microsoft_inTheZone12",
+        "filetype": "png",
+        "src": "/evergreen-assets/backgroundimages/inTheZone12.png?v=0.1",
+        "thumb_src": "/evergreen-assets/backgroundimages/inTheZone12_thumb.png?v=0.1"
+      },
+      {
+        "name": "South Island Garment 2026 - Light Blue",
+        "id": "Microsoft_inTheZone13",
+        "filetype": "png",
+        "src": "/evergreen-assets/backgroundimages/inTheZone13.png?v=0.1",
+        "thumb_src": "/evergreen-assets/backgroundimages/inTheZone13_thumb.png?v=0.1"
+      },
+      {
+        "name": "South Island Garment 2026 - Orange",
+        "id": "Microsoft_inTheZone14",
+        "filetype": "png",
+        "src": "/evergreen-assets/backgroundimages/inTheZone14.png?v=0.1",
+        "thumb_src": "/evergreen-assets/backgroundimages/inTheZone14_thumb.png?v=0.1"
       }
     ]
   }
